@@ -1,0 +1,95 @@
+Date: 15/7/2022
+Time: 12:58
+Phone Number: +5511993956989
+Message: Oi
+--------------------
+Date: 15/7/2022
+Time: 13:6
+Phone Number: +556191350143
+Message: Oi
+--------------------
+Date: 15/7/2022
+Time: 13:8
+Phone Number: +556191350143
+Message: msg automatica nem cliquei
+--------------------
+Date: 15/7/2022
+Time: 13:13
+Phone Number: +556191350143
+Message: teste
+--------------------
+Date: 15/7/2022
+Time: 13:22
+Group ID: Fc7XkBk02sX3AGLy3psmPz
+Message: teste
+--------------------
+Date: 15/7/2022
+Time: 13:23
+Group ID: Fc7XkBk02sX3AGLy3psmPz
+Message: msg automatica
+--------------------
+Date: 15/7/2022
+Time: 13:25
+Group ID: Fc7XkBk02sX3AGLy3psmPz
+Message: msg automatica
+--------------------
+Date: 15/7/2022
+Time: 13:27
+Group ID: Fc7XkBk02sX3AGLy3psmPz
+Message: msg automatica
+--------------------
+Date: 15/7/2022
+Time: 13:28
+Group ID: Fc7XkBk02sX3AGLy3psmPz
+Message: partiu game?
+--------------------
+Date: 15/7/2022
+Time: 13:31
+Group ID: Fc7XkBk02sX3AGLy3psmPz
+Message: Essa é uma mensagem automática enviada de forma automática automaticamente. Tipo sozinha mesmo.
+--------------------
+Date: 15/7/2022
+Time: 13:32
+Group ID: Fc7XkBk02sX3AGLy3psmPz
+Message: ja vi que acento da merda
+--------------------
+Date: 15/7/2022
+Time: 13:33
+Group ID: Fc7XkBk02sX3AGLy3psmPz
+Message: ja vi que acento da merda
+--------------------
+Date: 15/7/2022
+Time: 13:35
+Group ID: Fc7XkBk02sX3AGLy3psmPz
+Message: preciso que minha api em python mande resultados por msg em grupo de wpp
+--------------------
+Date: 15/7/2022
+Time: 13:43
+Phone Number: +556191350143
+Message: msg automatica
+--------------------
+Date: 15/7/2022
+Time: 13:43
+Group ID: Fc7XkBk02sX3AGLy3psmPz
+Message: msg automatica
+--------------------
+Date: 15/7/2022
+Time: 14:14
+Phone Number: +556191350143
+Message: msg automatica
+--------------------
+Date: 15/7/2022
+Time: 14:15
+Phone Number: +556191350143
+Message: msg automatica 2
+--------------------
+Date: 15/7/2022
+Time: 14:16
+Phone Number: +556191350143
+Message: msg automatica 2
+--------------------
+Date: 15/7/2022
+Time: 14:17
+Group ID: Fc7XkBk02sX3AGLy3psmPz
+Message: msg automatica 3
+--------------------
